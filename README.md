@@ -13,8 +13,16 @@ ArUco markers with OpenCV
 3d.py: Identificacón de aruco y generación de cubo en 3 dimensiones sobre él.
 ```
 
+## Ejecución
+
+```bash
+python3 2d.py
+python3 3d.pyp
+``
+
 ## Agradecimientos
 
 Gracias a Santiago Sanchez de Aprende Ingeniería, quién con sus tutoriales, me proporcionó gran parte de los conocimientos necesarios para llevar a cabo estos proyectos.
+
 
 
