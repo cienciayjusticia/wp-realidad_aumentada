@@ -1,5 +1,5 @@
 # Inteligencia Artificial Aplicada
-![Vision Artificial](https://raw.githubusercontent.com/parzibyte/WaterPy/master/assets/ImagenV1.png)
+![Vision Artificial](https://github.com/walterpisacco/wp-realidad_aumentada/blob/main/Imegen.png)
 
 # Python 3.8
 
@@ -7,7 +7,9 @@
 [![Latest Stable Version](https://poser.pugx.org/laravel/lumen-framework/v/stable.svg)](https://www.python.org/downloads/)
 [![License](https://poser.pugx.org/laravel/lumen-framework/license.svg)](https://docs.python.org/3/license.html)
 
-Desarrollo en Python 3 para visión artificial con ArUco markers with OpenCV
+Desarrollo en Python 3 para visión artificial con ArUco markers with OpenCV.
+Reemplazo de ArucoMarker por imagen en formato .jpg
+Reemplazo de ArucoMarker por representación en 3 dimensiones de un cubo.
 
 ## Licencia
 
