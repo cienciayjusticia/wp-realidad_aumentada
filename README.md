@@ -2,7 +2,7 @@
 
 Código en Python 3 para visión artificial con ArUco markers with OpenCV  
 
-![Aquí la descripción de la imagen por si no carga](https://raw.githubusercontent.com/parzibyte/WaterPy/master/assets/ImagenV1.png)
+![Generación de modelo 3d](https://github.com/walterpisacco/wp-realidad_aumentada/blob/main/Imegen.png)
 
 ## Librerias
 ```bash
