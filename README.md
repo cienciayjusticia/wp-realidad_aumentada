@@ -2,6 +2,8 @@
 
 Código en Python 3 para visión artificial con ArUco markers with OpenCV  
 
+![Aquí la descripción de la imagen por si no carga](https://raw.githubusercontent.com/parzibyte/WaterPy/master/assets/ImagenV1.png)
+
 ## Librerias
 ```bash
 CV2
