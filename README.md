@@ -18,7 +18,7 @@ ArUco markers with OpenCV
 ```bash
 python3 2d.py
 python3 3d.pyp
-``
+```
 
 ## Agradecimientos
 
