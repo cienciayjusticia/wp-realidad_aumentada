@@ -22,7 +22,8 @@ python3 3d.pyp
 
 ## Agradecimientos
 
-Gracias a Santiago Sanchez de Aprende Ingeniería, quién con sus tutoriales, me proporcionó gran parte de los conocimientos necesarios para llevar a cabo estos proyectos.
+Gracias a Santiago Sanchez de Aprende e Ingenia, quién con sus tutoriales, me proporcionó gran parte de los conocimientos necesarios para llevar a cabo estos proyectos.
 
+https://www.youtube.com/c/AprendeeIngenia
 
 
