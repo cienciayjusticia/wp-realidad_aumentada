@@ -11,8 +11,6 @@ cap = cv2.VideoCapture(2)
 cap.set(3,1920) #definimos el alto y ancho de la imagen
 cap.set(4,1080)
 
-cont = 0 #lo uso para sacar fotos
-
 while True:
 	ret, frame = cap.read()
 	gray = cv2.cvtColor(frame, cv2.COLOR_BGR2GRAY)
@@ -53,11 +51,6 @@ while True:
 		cv2.imshow("Realidad", frame)
 
 	k = cv2.waitKey(1)
-
-	if k == 97:
-		print("Imagen guardada")
-		cv2.imwrite("cali{}.png".format(cont),frame)
-		cont = cont + 1
 		
 	if k == 27:
 		break
