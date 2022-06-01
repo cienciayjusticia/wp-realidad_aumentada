@@ -1,10 +1,11 @@
 # Proyectos de realidad aumentada
 
-Código en Python 3 para visión artificial  
+Código en Python 3 para visión artificial con ArUco markers with OpenCV  
 
 ## Librerias
 
-ArUco markers with OpenCV
+CV2
+numpy
 
 ## Usos
 
