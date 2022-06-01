@@ -3,9 +3,10 @@
 Código en Python 3 para visión artificial con ArUco markers with OpenCV  
 
 ## Librerias
-
+```bash
 CV2
 numpy
+```
 
 ## Usos
 
