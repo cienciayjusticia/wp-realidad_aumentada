@@ -1,4 +1,6 @@
 # Inteligencia Artificial Aplicada
+![Vision Artificial](https://raw.githubusercontent.com/parzibyte/WaterPy/master/assets/ImagenV1.png)
+
 # Python 3.8
 
 [![Build Status](https://travis-ci.org/laravel/lumen-framework.svg)](https://www.python.org/downloads/)
@@ -6,12 +8,6 @@
 [![License](https://poser.pugx.org/laravel/lumen-framework/license.svg)](https://docs.python.org/3/license.html)
 
 Desarrollo en Python 3 para visión artificial con ArUco markers with OpenCV
-
-
-## Contribuciones
-
-Gracias a Aprende e Ingenia que con su aporte, hicieron posible este desarrollo
-
 
 ## Licencia
 
@@ -28,3 +24,6 @@ pip install opencv-python<br>
 
 Python3 2d.py
 
+## Contribuciones
+
+Gracias a Aprende e Ingenia que con su aporte, hicieron posible este desarrollo.
