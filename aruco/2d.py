@@ -28,7 +28,7 @@ while True:
 		c4 = (esquinas[0][0][3][0], esquinas[0][0][3][1])
 
 		copy = frame
-		imagen = cv2.imread("Carolina.jpg")
+		imagen = cv2.imread("imagen1.jpg")
 		tamanio = imagen.shape
 		puntos_aruco = np.array([c1,c2,c3,c4])
 
