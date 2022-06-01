@@ -1,33 +1,48 @@
-# Proyectos de realidad aumentada
+# DSV Inteligencia Artificial Aplicada
+# Python 3.8 + Javascript + Css
 
-Código en Python 3 para visión artificial con ArUco markers with OpenCV  
+[![Build Status](https://travis-ci.org/laravel/lumen-framework.svg)](https://www.python.org/downloads/)
+[![Total Downloads](https://poser.pugx.org/laravel/lumen-framework/d/total.svg)](https://www.python.org/downloads/)
+[![Latest Stable Version](https://poser.pugx.org/laravel/lumen-framework/v/stable.svg)](https://www.python.org/downloads/)
+[![License](https://poser.pugx.org/laravel/lumen-framework/license.svg)](https://docs.python.org/3/license.html)
 
-![Generación de modelo 3d](https://github.com/walterpisacco/wp-realidad_aumentada/blob/main/Imegen.png)
+Somos una compañía dedicada a la innovación y desarrollo tecnológico. Somos pioneros en Inteligencia Artificial, Edge computing y Tecnologías IoT.
 
-## Librerias
-```bash
-CV2
-numpy
-```
+## Documentation Oficial 
 
-## Usos
+La documentación del framework puede ser encontrada en:
 
-```bash
-2d.py: Identificación de Aruco y reemplazo por imagen estática en formato .jpg
-3d.py: Identificacón de aruco y generación de cubo en 3 dimensiones sobre él.
-```
+## Contribuciones
+
+ Cristian, Falime y Walter  colaboran en el desarrollo.
+
+## Securidad
+Requiere acceso a base de datos de prueba Mysql, estas conexiones se encuentran a disposición de quien así lo requiera
+
+## Licencia
+
+DSV es un software licenciado.
+
+## Instalación
+
+Crear la carpeta static/dataset<br>
+
+Leer archivo requirements.txt<br>
+El proceso de instalación requiere instalar los paquetes python:<br>
+
+pip install flask<br>
+pip install flask-mysql<br>
+pip install json<br>
+pip install numpy<br>
+pip install opencv-python<br>
+pip install Pillow <br>
+pip install --extra-index-url https://google-coral.github.io/py-repo/ tflite_runtime<br>
+pip install paho-mqtt python-etcd<br>
+pip install RPi.GPIO<br>
+pip install werkzeug
 
 ## Ejecución
 
-```bash
-python3 2d.py
-python3 3d.pyp
-```
+Python main.py
 
-## Agradecimientos
-
-Gracias a Santiago Sanchez de Aprende e Ingenia, quién con sus tutoriales, me proporcionó gran parte de los conocimientos necesarios para llevar a cabo estos proyectos.
-
-https://www.youtube.com/c/AprendeeIngenia
-
-
+Navegar hacia la url generada (http://localhost:4100)
